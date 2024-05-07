@@ -3,7 +3,6 @@
 <h3>ENTER YOUR NAME</h3>P.Narendra
 <h3>ENTER YOUR REGISTER NO</h3>212221040117
 <h3>EX. NO</h3>06
-<h3>DATE</h3>07/05/2024
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
